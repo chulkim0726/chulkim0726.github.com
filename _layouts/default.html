@@ -1,30 +1,19 @@
 <!DOCTYPE html>
-
-<haed>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<tltie>Education Blog</title>
-	<meta name="viewport" content="width=device-width">
-	
-	<link rel="stylesheet" href="/css/syntax.css">
-	<link rel="stylesheet" href="/css/main.css">
-</head>
-<html>
+<html lang="en">
 
   {% include head.html %}
 
-  <body>
+    <body>
 
-    {% include header.html %}
+      <div class="container">
 
-    <div class="page-content">
-      <div class="wrapper">
+        {% include header.html %}
+
         {{ content }}
+
+        {% include footer.html %}
+
       </div>
-    </div>
 
-    {% include footer.html %}
-
-  </body>
-
+    </body>
 </html>
