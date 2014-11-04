@@ -1,6 +1,6 @@
 # Site settings
 title: "컴퓨터공학부 학생을 위한 블로그"
-description: "다 드루와"
+description: "컴퓨터 공학부 학생들을 위해서 조건문과 Alpha-Beta 알고리즘 교육을 준비했습니다."
 baseurl: ""
 url: "http://chulkim0726.github.io"
 
