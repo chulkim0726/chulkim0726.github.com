@@ -1,5 +1,5 @@
 # Site settings
-title: "컴퓨터공학부 학생을 위한 교육용 블로그"
+title: "컴퓨터공학부 학생을 위한 블로그"
 description: "다 드루와"
 baseurl: ""
 url: "http://chulkim0726.github.io"
@@ -10,13 +10,4 @@ permalink: pretty
 highlighter: pygments
 paginate: 3
 
-# Links
-links:
-  - title: "조건문"
-    url: /about
-  - title: "AI"
-    url: http://twitter.com/alixedi
-  - title: "git"
-    url: http://github.com/alixedi
-  - title: "rss"
-    url: /feed.xml
+
